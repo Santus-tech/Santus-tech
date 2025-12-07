@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santus-tech
-- 👀 I’m interested in web development and android development 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in web development and networking.
+- 🌱 I’m currently learning networking.
 - 💞️ I’m looking to collaborate on various web projects 
 - 📫 How to reach me: 0746153531
 - 😄 Pronouns: He/him
